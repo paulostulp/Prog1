@@ -11,6 +11,7 @@ public class L2_ex1 {
     public static void main(String args[]) {
 
         System.out.println("Programação ");
+        System.out.println("Programação ");
        
 
 
