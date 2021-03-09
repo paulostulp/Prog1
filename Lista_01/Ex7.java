@@ -1,3 +1,4 @@
+package Lista_01;
 // Um número primo é aquele que é divisível apenas por 1 e por ele mesmo. Nesse caso, ser divisível é ter o resto
 // da divisão inteira resultando em zero, ou seja, dividir um número sem gerar vírgula. Por exemplo, o número 5 pode
 // ser dividido apenas por 1 e por ele mesmo: 5 / 1 = 5, resto 0;Por exemplo, o número 5 pode

@@ -1,3 +1,4 @@
+package Lista_01;
 // Faça um programa em Java que imprima na tela a tabuada do número 5 no seguinte formato:
 // 1 x 5 = 5
 // programação 1

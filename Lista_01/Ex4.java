@@ -1,3 +1,4 @@
+package Lista_01;
 //Faça um programa em Java que imprima na tela a tabuada do número 6 e do número 2, lado a lado, no seguinte formato:
 // 1 x 6 = 6 1 x 2 = 2
 // 2 x 6 = 12 2 x 2 = 4

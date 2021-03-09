@@ -1,3 +1,4 @@
+package Lista_01;
 // Faça um programa em Java que imprima na tela a seguinte frase:
 // 100 Java atrapalham atrapalham ... atrapalham atrapalham muita gente
 //2 Java atrapalham atrapalham muita gente

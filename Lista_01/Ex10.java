@@ -1,3 +1,4 @@
+package Lista_01;
 //10) Resolva a questão 8) sem utilizar operadores de divisão ( / ) e multiplicação ( * ). Você pode utilizar apenas
 //soma e subtração.
 
